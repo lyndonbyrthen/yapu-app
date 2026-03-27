@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="./style.css" />
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <!-- 1) Load the big data file first (defines window.YayinData) -->
+    <script src="./data.js"></script>
+
+    <!-- 2) Load the app bundle (IIFE; defines window.YayinApp) -->
+    <script src="./yayin-app.iife.js"></script>
+
+    <script>
+        YayinApp.mount("#app", window.YAYIN_DATA);
+    </script>
+</body>
+
+</html>

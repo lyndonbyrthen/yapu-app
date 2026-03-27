@@ -1,0 +1,5 @@
+# tally push/upload size
+
+git pack-objects --revs --thin --stdout --all-progress-implied <<EOF | wc -c
+$(git merge-base HEAD @{u})..HEAD
+EOF

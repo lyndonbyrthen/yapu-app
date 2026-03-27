@@ -1,0 +1,3845 @@
+{
+  "KangxiRadicals": {
+    "1": {
+      "id": 1,
+      "glyph": "⼀",
+      "codepoint": "U+2F00",
+      "baseGlyph": "一",
+      "baseCodepoint": "U+4E00",
+      "strokeCount": 1
+    },
+    "2": {
+      "id": 2,
+      "glyph": "⼁",
+      "codepoint": "U+2F01",
+      "baseGlyph": "丨",
+      "baseCodepoint": "U+4E28",
+      "strokeCount": 1
+    },
+    "3": {
+      "id": 3,
+      "glyph": "⼂",
+      "codepoint": "U+2F02",
+      "baseGlyph": "丶",
+      "baseCodepoint": "U+4E36",
+      "strokeCount": 1
+    },
+    "4": {
+      "id": 4,
+      "glyph": "⼃",
+      "codepoint": "U+2F03",
+      "baseGlyph": "丿",
+      "baseCodepoint": "U+4E3F",
+      "strokeCount": 1
+    },
+    "8": {
+      "id": 8,
+      "glyph": "⼇",
+      "codepoint": "U+2F07",
+      "baseGlyph": "亠",
+      "baseCodepoint": "U+4EA0",
+      "strokeCount": 2
+    },
+    "9": {
+      "id": 9,
+      "glyph": "⼈",
+      "codepoint": "U+2F08",
+      "baseGlyph": "人",
+      "baseCodepoint": "U+4EBA",
+      "strokeCount": 2
+    },
+    "10": {
+      "id": 10,
+      "glyph": "⼉",
+      "codepoint": "U+2F09",
+      "baseGlyph": "儿",
+      "baseCodepoint": "U+513F",
+      "strokeCount": 2
+    },
+    "12": {
+      "id": 12,
+      "glyph": "⼋",
+      "codepoint": "U+2F0B",
+      "baseGlyph": "八",
+      "baseCodepoint": "U+516B",
+      "strokeCount": 2
+    },
+    "13": {
+      "id": 13,
+      "glyph": "⼌",
+      "codepoint": "U+2F0C",
+      "baseGlyph": "冂",
+      "baseCodepoint": "U+5182",
+      "strokeCount": 2
+    },
+    "14": {
+      "id": 14,
+      "glyph": "⼍",
+      "codepoint": "U+2F0D",
+      "baseGlyph": "冖",
+      "baseCodepoint": "U+5196",
+      "strokeCount": 2
+    },
+    "15": {
+      "id": 15,
+      "glyph": "⼎",
+      "codepoint": "U+2F0E",
+      "baseGlyph": "冫",
+      "baseCodepoint": "U+51AB",
+      "strokeCount": 2
+    },
+    "16": {
+      "id": 16,
+      "glyph": "⼏",
+      "codepoint": "U+2F0F",
+      "baseGlyph": "几",
+      "baseCodepoint": "U+51E0",
+      "strokeCount": 2
+    },
+    "17": {
+      "id": 17,
+      "glyph": "⼐",
+      "codepoint": "U+2F10",
+      "baseGlyph": "凵",
+      "baseCodepoint": "U+51F5",
+      "strokeCount": 2
+    },
+    "18": {
+      "id": 18,
+      "glyph": "⼑",
+      "codepoint": "U+2F11",
+      "baseGlyph": "刀",
+      "baseCodepoint": "U+5200",
+      "strokeCount": 2
+    },
+    "19": {
+      "id": 19,
+      "glyph": "⼒",
+      "codepoint": "U+2F12",
+      "baseGlyph": "力",
+      "baseCodepoint": "U+529B",
+      "strokeCount": 2
+    },
+    "20": {
+      "id": 20,
+      "glyph": "⼓",
+      "codepoint": "U+2F13",
+      "baseGlyph": "勹",
+      "baseCodepoint": "U+52F9",
+      "strokeCount": 2
+    },
+    "21": {
+      "id": 21,
+      "glyph": "⼔",
+      "codepoint": "U+2F14",
+      "baseGlyph": "匕",
+      "baseCodepoint": "U+5315",
+      "strokeCount": 2
+    },
+    "22": {
+      "id": 22,
+      "glyph": "⼕",
+      "codepoint": "U+2F15",
+      "baseGlyph": "匚",
+      "baseCodepoint": "U+531A",
+      "strokeCount": 2
+    },
+    "24": {
+      "id": 24,
+      "glyph": "⼗",
+      "codepoint": "U+2F17",
+      "baseGlyph": "十",
+      "baseCodepoint": "U+5341",
+      "strokeCount": 2
+    },
+    "25": {
+      "id": 25,
+      "glyph": "⼘",
+      "codepoint": "U+2F18",
+      "baseGlyph": "卜",
+      "baseCodepoint": "U+535C",
+      "strokeCount": 2
+    },
+    "26": {
+      "id": 26,
+      "glyph": "⼙",
+      "codepoint": "U+2F19",
+      "baseGlyph": "卩",
+      "baseCodepoint": "U+5369",
+      "strokeCount": 2
+    },
+    "27": {
+      "id": 27,
+      "glyph": "⼚",
+      "codepoint": "U+2F1A",
+      "baseGlyph": "厂",
+      "baseCodepoint": "U+5382",
+      "strokeCount": 2
+    },
+    "28": {
+      "id": 28,
+      "glyph": "⼛",
+      "codepoint": "U+2F1B",
+      "baseGlyph": "厶",
+      "baseCodepoint": "U+53B6",
+      "strokeCount": 2
+    },
+    "29": {
+      "id": 29,
+      "glyph": "⼜",
+      "codepoint": "U+2F1C",
+      "baseGlyph": "又",
+      "baseCodepoint": "U+53C8",
+      "strokeCount": 2
+    },
+    "30": {
+      "id": 30,
+      "glyph": "⼝",
+      "codepoint": "U+2F1D",
+      "baseGlyph": "口",
+      "baseCodepoint": "U+53E3",
+      "strokeCount": 3
+    },
+    "31": {
+      "id": 31,
+      "glyph": "⼞",
+      "codepoint": "U+2F1E",
+      "baseGlyph": "囗",
+      "baseCodepoint": "U+56D7",
+      "strokeCount": 3
+    },
+    "32": {
+      "id": 32,
+      "glyph": "⼟",
+      "codepoint": "U+2F1F",
+      "baseGlyph": "土",
+      "baseCodepoint": "U+571F",
+      "strokeCount": 3
+    },
+    "34": {
+      "id": 34,
+      "glyph": "⼡",
+      "codepoint": "U+2F21",
+      "baseGlyph": "夂",
+      "baseCodepoint": "U+5902",
+      "strokeCount": 3
+    },
+    "36": {
+      "id": 36,
+      "glyph": "⼣",
+      "codepoint": "U+2F23",
+      "baseGlyph": "夕",
+      "baseCodepoint": "U+5915",
+      "strokeCount": 3
+    },
+    "37": {
+      "id": 37,
+      "glyph": "⼤",
+      "codepoint": "U+2F24",
+      "baseGlyph": "大",
+      "baseCodepoint": "U+5927",
+      "strokeCount": 3
+    },
+    "38": {
+      "id": 38,
+      "glyph": "⼥",
+      "codepoint": "U+2F25",
+      "baseGlyph": "女",
+      "baseCodepoint": "U+5973",
+      "strokeCount": 3
+    },
+    "39": {
+      "id": 39,
+      "glyph": "⼦",
+      "codepoint": "U+2F26",
+      "baseGlyph": "子",
+      "baseCodepoint": "U+5B50",
+      "strokeCount": 3
+    },
+    "40": {
+      "id": 40,
+      "glyph": "⼧",
+      "codepoint": "U+2F27",
+      "baseGlyph": "宀",
+      "baseCodepoint": "U+5B80",
+      "strokeCount": 3
+    },
+    "41": {
+      "id": 41,
+      "glyph": "⼨",
+      "codepoint": "U+2F28",
+      "baseGlyph": "寸",
+      "baseCodepoint": "U+5BF8",
+      "strokeCount": 3
+    },
+    "42": {
+      "id": 42,
+      "glyph": "⼩",
+      "codepoint": "U+2F29",
+      "baseGlyph": "小",
+      "baseCodepoint": "U+5C0F",
+      "strokeCount": 3
+    },
+    "43": {
+      "id": 43,
+      "glyph": "⼪",
+      "codepoint": "U+2F2A",
+      "baseGlyph": "尢",
+      "baseCodepoint": "U+5C22",
+      "strokeCount": 3
+    },
+    "44": {
+      "id": 44,
+      "glyph": "⼫",
+      "codepoint": "U+2F2B",
+      "baseGlyph": "尸",
+      "baseCodepoint": "U+5C38",
+      "strokeCount": 3
+    },
+    "45": {
+      "id": 45,
+      "glyph": "⼬",
+      "codepoint": "U+2F2C",
+      "baseGlyph": "屮",
+      "baseCodepoint": "U+5C6E",
+      "strokeCount": 3
+    },
+    "46": {
+      "id": 46,
+      "glyph": "⼭",
+      "codepoint": "U+2F2D",
+      "baseGlyph": "山",
+      "baseCodepoint": "U+5C71",
+      "strokeCount": 3
+    },
+    "47": {
+      "id": 47,
+      "glyph": "⼮",
+      "codepoint": "U+2F2E",
+      "baseGlyph": "巛",
+      "baseCodepoint": "U+5DDB",
+      "strokeCount": 3
+    },
+    "48": {
+      "id": 48,
+      "glyph": "⼯",
+      "codepoint": "U+2F2F",
+      "baseGlyph": "工",
+      "baseCodepoint": "U+5DE5",
+      "strokeCount": 3
+    },
+    "49": {
+      "id": 49,
+      "glyph": "⼰",
+      "codepoint": "U+2F30",
+      "baseGlyph": "己",
+      "baseCodepoint": "U+5DF1",
+      "strokeCount": 3
+    },
+    "50": {
+      "id": 50,
+      "glyph": "⼱",
+      "codepoint": "U+2F31",
+      "baseGlyph": "巾",
+      "baseCodepoint": "U+5DFE",
+      "strokeCount": 3
+    },
+    "51": {
+      "id": 51,
+      "glyph": "⼲",
+      "codepoint": "U+2F32",
+      "baseGlyph": "干",
+      "baseCodepoint": "U+5E72",
+      "strokeCount": 3
+    },
+    "53": {
+      "id": 53,
+      "glyph": "⼴",
+      "codepoint": "U+2F34",
+      "baseGlyph": "广",
+      "baseCodepoint": "U+5E7F",
+      "strokeCount": 3
+    },
+    "54": {
+      "id": 54,
+      "glyph": "⼵",
+      "codepoint": "U+2F35",
+      "baseGlyph": "廴",
+      "baseCodepoint": "U+5EF4",
+      "strokeCount": 2
+    },
+    "55": {
+      "id": 55,
+      "glyph": "⼶",
+      "codepoint": "U+2F36",
+      "baseGlyph": "廾",
+      "baseCodepoint": "U+5EFE",
+      "strokeCount": 3
+    },
+    "56": {
+      "id": 56,
+      "glyph": "⼷",
+      "codepoint": "U+2F37",
+      "baseGlyph": "弋",
+      "baseCodepoint": "U+5F0B",
+      "strokeCount": 3
+    },
+    "57": {
+      "id": 57,
+      "glyph": "⼸",
+      "codepoint": "U+2F38",
+      "baseGlyph": "弓",
+      "baseCodepoint": "U+5F13",
+      "strokeCount": 3
+    },
+    "58": {
+      "id": 58,
+      "glyph": "⼹",
+      "codepoint": "U+2F39",
+      "baseGlyph": "彐",
+      "baseCodepoint": "U+5F50",
+      "strokeCount": 3
+    },
+    "59": {
+      "id": 59,
+      "glyph": "⼺",
+      "codepoint": "U+2F3A",
+      "baseGlyph": "彡",
+      "baseCodepoint": "U+5F61",
+      "strokeCount": 3
+    },
+    "60": {
+      "id": 60,
+      "glyph": "⼻",
+      "codepoint": "U+2F3B",
+      "baseGlyph": "彳",
+      "baseCodepoint": "U+5F73",
+      "strokeCount": 3
+    },
+    "61": {
+      "id": 61,
+      "glyph": "⼼",
+      "codepoint": "U+2F3C",
+      "baseGlyph": "心",
+      "baseCodepoint": "U+5FC3",
+      "strokeCount": 4
+    },
+    "62": {
+      "id": 62,
+      "glyph": "⼽",
+      "codepoint": "U+2F3D",
+      "baseGlyph": "戈",
+      "baseCodepoint": "U+6208",
+      "strokeCount": 4
+    },
+    "64": {
+      "id": 64,
+      "glyph": "⼿",
+      "codepoint": "U+2F3F",
+      "baseGlyph": "手",
+      "baseCodepoint": "U+624B",
+      "strokeCount": 4
+    },
+    "65": {
+      "id": 65,
+      "glyph": "⽀",
+      "codepoint": "U+2F40",
+      "baseGlyph": "支",
+      "baseCodepoint": "U+652F",
+      "strokeCount": 4
+    },
+    "66": {
+      "id": 66,
+      "glyph": "⽁",
+      "codepoint": "U+2F41",
+      "baseGlyph": "攴",
+      "baseCodepoint": "U+6534",
+      "strokeCount": 4
+    },
+    "67": {
+      "id": 67,
+      "glyph": "⽂",
+      "codepoint": "U+2F42",
+      "baseGlyph": "文",
+      "baseCodepoint": "U+6587",
+      "strokeCount": 4
+    },
+    "68": {
+      "id": 68,
+      "glyph": "⽃",
+      "codepoint": "U+2F43",
+      "baseGlyph": "斗",
+      "baseCodepoint": "U+6597",
+      "strokeCount": 4
+    },
+    "69": {
+      "id": 69,
+      "glyph": "⽄",
+      "codepoint": "U+2F44",
+      "baseGlyph": "斤",
+      "baseCodepoint": "U+65A4",
+      "strokeCount": 4
+    },
+    "70": {
+      "id": 70,
+      "glyph": "⽅",
+      "codepoint": "U+2F45",
+      "baseGlyph": "方",
+      "baseCodepoint": "U+65B9",
+      "strokeCount": 4
+    },
+    "71": {
+      "id": 71,
+      "glyph": "⽆",
+      "codepoint": "U+2F46",
+      "baseGlyph": "无",
+      "baseCodepoint": "U+65E0",
+      "strokeCount": 4
+    },
+    "72": {
+      "id": 72,
+      "glyph": "⽇",
+      "codepoint": "U+2F47",
+      "baseGlyph": "日",
+      "baseCodepoint": "U+65E5",
+      "strokeCount": 4
+    },
+    "74": {
+      "id": 74,
+      "glyph": "⽉",
+      "codepoint": "U+2F49",
+      "baseGlyph": "月",
+      "baseCodepoint": "U+6708",
+      "strokeCount": 4
+    },
+    "75": {
+      "id": 75,
+      "glyph": "⽊",
+      "codepoint": "U+2F4A",
+      "baseGlyph": "木",
+      "baseCodepoint": "U+6728",
+      "strokeCount": 4
+    },
+    "76": {
+      "id": 76,
+      "glyph": "⽋",
+      "codepoint": "U+2F4B",
+      "baseGlyph": "欠",
+      "baseCodepoint": "U+6B20",
+      "strokeCount": 4
+    },
+    "77": {
+      "id": 77,
+      "glyph": "⽌",
+      "codepoint": "U+2F4C",
+      "baseGlyph": "止",
+      "baseCodepoint": "U+6B62",
+      "strokeCount": 4
+    },
+    "78": {
+      "id": 78,
+      "glyph": "⽍",
+      "codepoint": "U+2F4D",
+      "baseGlyph": "歹",
+      "baseCodepoint": "U+6B79",
+      "strokeCount": 4
+    },
+    "79": {
+      "id": 79,
+      "glyph": "⽎",
+      "codepoint": "U+2F4E",
+      "baseGlyph": "殳",
+      "baseCodepoint": "U+6BB3",
+      "strokeCount": 4
+    },
+    "80": {
+      "id": 80,
+      "glyph": "⽏",
+      "codepoint": "U+2F4F",
+      "baseGlyph": "毋",
+      "baseCodepoint": "U+6BCB",
+      "strokeCount": 4
+    },
+    "81": {
+      "id": 81,
+      "glyph": "⽐",
+      "codepoint": "U+2F50",
+      "baseGlyph": "比",
+      "baseCodepoint": "U+6BD4",
+      "strokeCount": 4
+    },
+    "82": {
+      "id": 82,
+      "glyph": "⽑",
+      "codepoint": "U+2F51",
+      "baseGlyph": "毛",
+      "baseCodepoint": "U+6BDB",
+      "strokeCount": 4
+    },
+    "83": {
+      "id": 83,
+      "glyph": "⽒",
+      "codepoint": "U+2F52",
+      "baseGlyph": "氏",
+      "baseCodepoint": "U+6C0F",
+      "strokeCount": 4
+    },
+    "84": {
+      "id": 84,
+      "glyph": "⽓",
+      "codepoint": "U+2F53",
+      "baseGlyph": "气",
+      "baseCodepoint": "U+6C14",
+      "strokeCount": 4
+    },
+    "85": {
+      "id": 85,
+      "glyph": "⽔",
+      "codepoint": "U+2F54",
+      "baseGlyph": "水",
+      "baseCodepoint": "U+6C34",
+      "strokeCount": 4
+    },
+    "86": {
+      "id": 86,
+      "glyph": "⽕",
+      "codepoint": "U+2F55",
+      "baseGlyph": "火",
+      "baseCodepoint": "U+706B",
+      "strokeCount": 4
+    },
+    "87": {
+      "id": 87,
+      "glyph": "⽖",
+      "codepoint": "U+2F56",
+      "baseGlyph": "爪",
+      "baseCodepoint": "U+722A",
+      "strokeCount": 4
+    },
+    "88": {
+      "id": 88,
+      "glyph": "⽗",
+      "codepoint": "U+2F57",
+      "baseGlyph": "父",
+      "baseCodepoint": "U+7236",
+      "strokeCount": 4
+    },
+    "91": {
+      "id": 91,
+      "glyph": "⽚",
+      "codepoint": "U+2F5A",
+      "baseGlyph": "片",
+      "baseCodepoint": "U+7247",
+      "strokeCount": 4
+    },
+    "92": {
+      "id": 92,
+      "glyph": "⽛",
+      "codepoint": "U+2F5B",
+      "baseGlyph": "牙",
+      "baseCodepoint": "U+7259",
+      "strokeCount": 4
+    },
+    "93": {
+      "id": 93,
+      "glyph": "⽜",
+      "codepoint": "U+2F5C",
+      "baseGlyph": "牛",
+      "baseCodepoint": "U+725B",
+      "strokeCount": 4
+    },
+    "94": {
+      "id": 94,
+      "glyph": "⽝",
+      "codepoint": "U+2F5D",
+      "baseGlyph": "犬",
+      "baseCodepoint": "U+72AC",
+      "strokeCount": 4
+    },
+    "97": {
+      "id": 97,
+      "glyph": "⽠",
+      "codepoint": "U+2F60",
+      "baseGlyph": "瓜",
+      "baseCodepoint": "U+74DC",
+      "strokeCount": 5
+    },
+    "98": {
+      "id": 98,
+      "glyph": "⽡",
+      "codepoint": "U+2F61",
+      "baseGlyph": "瓦",
+      "baseCodepoint": "U+74E6",
+      "strokeCount": 4
+    },
+    "99": {
+      "id": 99,
+      "glyph": "⽢",
+      "codepoint": "U+2F62",
+      "baseGlyph": "甘",
+      "baseCodepoint": "U+7518",
+      "strokeCount": 5
+    },
+    "100": {
+      "id": 100,
+      "glyph": "⽣",
+      "codepoint": "U+2F63",
+      "baseGlyph": "生",
+      "baseCodepoint": "U+751F",
+      "strokeCount": 5
+    },
+    "102": {
+      "id": 102,
+      "glyph": "⽥",
+      "codepoint": "U+2F65",
+      "baseGlyph": "田",
+      "baseCodepoint": "U+7530",
+      "strokeCount": 5
+    },
+    "103": {
+      "id": 103,
+      "glyph": "⽦",
+      "codepoint": "U+2F66",
+      "baseGlyph": "疋",
+      "baseCodepoint": "U+758B",
+      "strokeCount": 5
+    },
+    "104": {
+      "id": 104,
+      "glyph": "⽧",
+      "codepoint": "U+2F67",
+      "baseGlyph": "疒",
+      "baseCodepoint": "U+7592",
+      "strokeCount": 5
+    },
+    "105": {
+      "id": 105,
+      "glyph": "⽨",
+      "codepoint": "U+2F68",
+      "baseGlyph": "癶",
+      "baseCodepoint": "U+7676",
+      "strokeCount": 5
+    },
+    "106": {
+      "id": 106,
+      "glyph": "⽩",
+      "codepoint": "U+2F69",
+      "baseGlyph": "白",
+      "baseCodepoint": "U+767D",
+      "strokeCount": 5
+    },
+    "107": {
+      "id": 107,
+      "glyph": "⽪",
+      "codepoint": "U+2F6A",
+      "baseGlyph": "皮",
+      "baseCodepoint": "U+76AE",
+      "strokeCount": 5
+    },
+    "108": {
+      "id": 108,
+      "glyph": "⽫",
+      "codepoint": "U+2F6B",
+      "baseGlyph": "皿",
+      "baseCodepoint": "U+76BF",
+      "strokeCount": 5
+    },
+    "109": {
+      "id": 109,
+      "glyph": "⽬",
+      "codepoint": "U+2F6C",
+      "baseGlyph": "目",
+      "baseCodepoint": "U+76EE",
+      "strokeCount": 5
+    },
+    "110": {
+      "id": 110,
+      "glyph": "⽭",
+      "codepoint": "U+2F6D",
+      "baseGlyph": "矛",
+      "baseCodepoint": "U+77DB",
+      "strokeCount": 5
+    },
+    "111": {
+      "id": 111,
+      "glyph": "⽮",
+      "codepoint": "U+2F6E",
+      "baseGlyph": "矢",
+      "baseCodepoint": "U+77E2",
+      "strokeCount": 5
+    },
+    "112": {
+      "id": 112,
+      "glyph": "⽯",
+      "codepoint": "U+2F6F",
+      "baseGlyph": "石",
+      "baseCodepoint": "U+77F3",
+      "strokeCount": 5
+    },
+    "113": {
+      "id": 113,
+      "glyph": "⽰",
+      "codepoint": "U+2F70",
+      "baseGlyph": "示",
+      "baseCodepoint": "U+793A",
+      "strokeCount": 5
+    },
+    "115": {
+      "id": 115,
+      "glyph": "⽲",
+      "codepoint": "U+2F72",
+      "baseGlyph": "禾",
+      "baseCodepoint": "U+79BE",
+      "strokeCount": 5
+    },
+    "116": {
+      "id": 116,
+      "glyph": "⽳",
+      "codepoint": "U+2F73",
+      "baseGlyph": "穴",
+      "baseCodepoint": "U+7A74",
+      "strokeCount": 5
+    },
+    "117": {
+      "id": 117,
+      "glyph": "⽴",
+      "codepoint": "U+2F74",
+      "baseGlyph": "立",
+      "baseCodepoint": "U+7ACB",
+      "strokeCount": 5
+    },
+    "118": {
+      "id": 118,
+      "glyph": "⽵",
+      "codepoint": "U+2F75",
+      "baseGlyph": "竹",
+      "baseCodepoint": "U+7AF9",
+      "strokeCount": 6
+    },
+    "119": {
+      "id": 119,
+      "glyph": "⽶",
+      "codepoint": "U+2F76",
+      "baseGlyph": "米",
+      "baseCodepoint": "U+7C73",
+      "strokeCount": 6
+    },
+    "120": {
+      "id": 120,
+      "glyph": "⽷",
+      "codepoint": "U+2F77",
+      "baseGlyph": "糸",
+      "baseCodepoint": "U+7CF8",
+      "strokeCount": 6
+    },
+    "121": {
+      "id": 121,
+      "glyph": "⽸",
+      "codepoint": "U+2F78",
+      "baseGlyph": "缶",
+      "baseCodepoint": "U+7F36",
+      "strokeCount": 6
+    },
+    "123": {
+      "id": 123,
+      "glyph": "⽺",
+      "codepoint": "U+2F7A",
+      "baseGlyph": "羊",
+      "baseCodepoint": "U+7F8A",
+      "strokeCount": 6
+    },
+    "124": {
+      "id": 124,
+      "glyph": "⽻",
+      "codepoint": "U+2F7B",
+      "baseGlyph": "羽",
+      "baseCodepoint": "U+7FBD",
+      "strokeCount": 6
+    },
+    "125": {
+      "id": 125,
+      "glyph": "⽼",
+      "codepoint": "U+2F7C",
+      "baseGlyph": "老",
+      "baseCodepoint": "U+8001",
+      "strokeCount": 6
+    },
+    "126": {
+      "id": 126,
+      "glyph": "⽽",
+      "codepoint": "U+2F7D",
+      "baseGlyph": "而",
+      "baseCodepoint": "U+800C",
+      "strokeCount": 6
+    },
+    "127": {
+      "id": 127,
+      "glyph": "⽾",
+      "codepoint": "U+2F7E",
+      "baseGlyph": "耒",
+      "baseCodepoint": "U+8012",
+      "strokeCount": 6
+    },
+    "128": {
+      "id": 128,
+      "glyph": "⽿",
+      "codepoint": "U+2F7F",
+      "baseGlyph": "耳",
+      "baseCodepoint": "U+8033",
+      "strokeCount": 6
+    },
+    "129": {
+      "id": 129,
+      "glyph": "⾀",
+      "codepoint": "U+2F80",
+      "baseGlyph": "聿",
+      "baseCodepoint": "U+807F",
+      "strokeCount": 6
+    },
+    "130": {
+      "id": 130,
+      "glyph": "⾁",
+      "codepoint": "U+2F81",
+      "baseGlyph": "肉",
+      "baseCodepoint": "U+8089",
+      "strokeCount": 6
+    },
+    "131": {
+      "id": 131,
+      "glyph": "⾂",
+      "codepoint": "U+2F82",
+      "baseGlyph": "臣",
+      "baseCodepoint": "U+81E3",
+      "strokeCount": 6
+    },
+    "132": {
+      "id": 132,
+      "glyph": "⾃",
+      "codepoint": "U+2F83",
+      "baseGlyph": "自",
+      "baseCodepoint": "U+81EA",
+      "strokeCount": 6
+    },
+    "133": {
+      "id": 133,
+      "glyph": "⾄",
+      "codepoint": "U+2F84",
+      "baseGlyph": "至",
+      "baseCodepoint": "U+81F3",
+      "strokeCount": 6
+    },
+    "134": {
+      "id": 134,
+      "glyph": "⾅",
+      "codepoint": "U+2F85",
+      "baseGlyph": "臼",
+      "baseCodepoint": "U+81FC",
+      "strokeCount": 6
+    },
+    "135": {
+      "id": 135,
+      "glyph": "⾆",
+      "codepoint": "U+2F86",
+      "baseGlyph": "舌",
+      "baseCodepoint": "U+820C",
+      "strokeCount": 6
+    },
+    "137": {
+      "id": 137,
+      "glyph": "⾈",
+      "codepoint": "U+2F88",
+      "baseGlyph": "舟",
+      "baseCodepoint": "U+821F",
+      "strokeCount": 6
+    },
+    "138": {
+      "id": 138,
+      "glyph": "⾉",
+      "codepoint": "U+2F89",
+      "baseGlyph": "艮",
+      "baseCodepoint": "U+826E",
+      "strokeCount": 6
+    },
+    "139": {
+      "id": 139,
+      "glyph": "⾊",
+      "codepoint": "U+2F8A",
+      "baseGlyph": "色",
+      "baseCodepoint": "U+8272",
+      "strokeCount": 6
+    },
+    "141": {
+      "id": 141,
+      "glyph": "⾌",
+      "codepoint": "U+2F8C",
+      "baseGlyph": "虍",
+      "baseCodepoint": "U+864D",
+      "strokeCount": 6
+    },
+    "142": {
+      "id": 142,
+      "glyph": "⾍",
+      "codepoint": "U+2F8D",
+      "baseGlyph": "虫",
+      "baseCodepoint": "U+866B",
+      "strokeCount": 6
+    },
+    "143": {
+      "id": 143,
+      "glyph": "⾎",
+      "codepoint": "U+2F8E",
+      "baseGlyph": "血",
+      "baseCodepoint": "U+8840",
+      "strokeCount": 6
+    },
+    "145": {
+      "id": 145,
+      "glyph": "⾐",
+      "codepoint": "U+2F90",
+      "baseGlyph": "衣",
+      "baseCodepoint": "U+8863",
+      "strokeCount": 6
+    },
+    "148": {
+      "id": 148,
+      "glyph": "⾓",
+      "codepoint": "U+2F93",
+      "baseGlyph": "角",
+      "baseCodepoint": "U+89D2",
+      "strokeCount": 7
+    },
+    "149": {
+      "id": 149,
+      "glyph": "⾔",
+      "codepoint": "U+2F94",
+      "baseGlyph": "言",
+      "baseCodepoint": "U+8A00",
+      "strokeCount": 7
+    },
+    "150": {
+      "id": 150,
+      "glyph": "⾕",
+      "codepoint": "U+2F95",
+      "baseGlyph": "谷",
+      "baseCodepoint": "U+8C37",
+      "strokeCount": 7
+    },
+    "151": {
+      "id": 151,
+      "glyph": "⾖",
+      "codepoint": "U+2F96",
+      "baseGlyph": "豆",
+      "baseCodepoint": "U+8C46",
+      "strokeCount": 7
+    },
+    "152": {
+      "id": 152,
+      "glyph": "⾗",
+      "codepoint": "U+2F97",
+      "baseGlyph": "豕",
+      "baseCodepoint": "U+8C55",
+      "strokeCount": 7
+    },
+    "153": {
+      "id": 153,
+      "glyph": "⾘",
+      "codepoint": "U+2F98",
+      "baseGlyph": "豸",
+      "baseCodepoint": "U+8C78",
+      "strokeCount": 7
+    },
+    "155": {
+      "id": 155,
+      "glyph": "⾚",
+      "codepoint": "U+2F9A",
+      "baseGlyph": "赤",
+      "baseCodepoint": "U+8D64",
+      "strokeCount": 7
+    },
+    "156": {
+      "id": 156,
+      "glyph": "⾛",
+      "codepoint": "U+2F9B",
+      "baseGlyph": "走",
+      "baseCodepoint": "U+8D70",
+      "strokeCount": 7
+    },
+    "157": {
+      "id": 157,
+      "glyph": "⾜",
+      "codepoint": "U+2F9C",
+      "baseGlyph": "足",
+      "baseCodepoint": "U+8DB3",
+      "strokeCount": 7
+    },
+    "158": {
+      "id": 158,
+      "glyph": "⾝",
+      "codepoint": "U+2F9D",
+      "baseGlyph": "身",
+      "baseCodepoint": "U+8EAB",
+      "strokeCount": 7
+    },
+    "160": {
+      "id": 160,
+      "glyph": "⾟",
+      "codepoint": "U+2F9F",
+      "baseGlyph": "辛",
+      "baseCodepoint": "U+8F9B",
+      "strokeCount": 7
+    },
+    "161": {
+      "id": 161,
+      "glyph": "⾠",
+      "codepoint": "U+2FA0",
+      "baseGlyph": "辰",
+      "baseCodepoint": "U+8FB0",
+      "strokeCount": 7
+    },
+    "163": {
+      "id": 163,
+      "glyph": "⾢",
+      "codepoint": "U+2FA2",
+      "baseGlyph": "邑",
+      "baseCodepoint": "U+9091",
+      "strokeCount": 7
+    },
+    "164": {
+      "id": 164,
+      "glyph": "⾣",
+      "codepoint": "U+2FA3",
+      "baseGlyph": "酉",
+      "baseCodepoint": "U+9149",
+      "strokeCount": 7
+    },
+    "165": {
+      "id": 165,
+      "glyph": "⾤",
+      "codepoint": "U+2FA4",
+      "baseGlyph": "釆",
+      "baseCodepoint": "U+91C6",
+      "strokeCount": 7
+    },
+    "166": {
+      "id": 166,
+      "glyph": "⾥",
+      "codepoint": "U+2FA5",
+      "baseGlyph": "里",
+      "baseCodepoint": "U+91CC",
+      "strokeCount": 7
+    },
+    "167": {
+      "id": 167,
+      "glyph": "⾦",
+      "codepoint": "U+2FA6",
+      "baseGlyph": "金",
+      "baseCodepoint": "U+91D1",
+      "strokeCount": 8
+    },
+    "170": {
+      "id": 170,
+      "glyph": "⾩",
+      "codepoint": "U+2FA9",
+      "baseGlyph": "阜",
+      "baseCodepoint": "U+961C",
+      "strokeCount": 8
+    },
+    "171": {
+      "id": 171,
+      "glyph": "⾪",
+      "codepoint": "U+2FAA",
+      "baseGlyph": "隶",
+      "baseCodepoint": "U+96B6",
+      "strokeCount": 8
+    },
+    "172": {
+      "id": 172,
+      "glyph": "⾫",
+      "codepoint": "U+2FAB",
+      "baseGlyph": "隹",
+      "baseCodepoint": "U+96B9",
+      "strokeCount": 8
+    },
+    "173": {
+      "id": 173,
+      "glyph": "⾬",
+      "codepoint": "U+2FAC",
+      "baseGlyph": "雨",
+      "baseCodepoint": "U+96E8",
+      "strokeCount": 8
+    },
+    "175": {
+      "id": 175,
+      "glyph": "⾮",
+      "codepoint": "U+2FAE",
+      "baseGlyph": "非",
+      "baseCodepoint": "U+975E",
+      "strokeCount": 8
+    },
+    "176": {
+      "id": 176,
+      "glyph": "⾯",
+      "codepoint": "U+2FAF",
+      "baseGlyph": "面",
+      "baseCodepoint": "U+9762",
+      "strokeCount": 9
+    },
+    "177": {
+      "id": 177,
+      "glyph": "⾰",
+      "codepoint": "U+2FB0",
+      "baseGlyph": "革",
+      "baseCodepoint": "U+9769",
+      "strokeCount": 9
+    },
+    "179": {
+      "id": 179,
+      "glyph": "⾲",
+      "codepoint": "U+2FB2",
+      "baseGlyph": "韭",
+      "baseCodepoint": "U+97ED",
+      "strokeCount": 9
+    },
+    "180": {
+      "id": 180,
+      "glyph": "⾳",
+      "codepoint": "U+2FB3",
+      "baseGlyph": "音",
+      "baseCodepoint": "U+97F3",
+      "strokeCount": 9
+    },
+    "184": {
+      "id": 184,
+      "glyph": "⾷",
+      "codepoint": "U+2FB7",
+      "baseGlyph": "食",
+      "baseCodepoint": "U+98DF",
+      "strokeCount": 9
+    },
+    "185": {
+      "id": 185,
+      "glyph": "⾸",
+      "codepoint": "U+2FB8",
+      "baseGlyph": "首",
+      "baseCodepoint": "U+9996",
+      "strokeCount": 9
+    },
+    "186": {
+      "id": 186,
+      "glyph": "⾹",
+      "codepoint": "U+2FB9",
+      "baseGlyph": "香",
+      "baseCodepoint": "U+9999",
+      "strokeCount": 9
+    },
+    "188": {
+      "id": 188,
+      "glyph": "⾻",
+      "codepoint": "U+2FBB",
+      "baseGlyph": "骨",
+      "baseCodepoint": "U+9AA8",
+      "strokeCount": 9
+    },
+    "189": {
+      "id": 189,
+      "glyph": "⾼",
+      "codepoint": "U+2FBC",
+      "baseGlyph": "高",
+      "baseCodepoint": "U+9AD8",
+      "strokeCount": 10
+    },
+    "190": {
+      "id": 190,
+      "glyph": "⾽",
+      "codepoint": "U+2FBD",
+      "baseGlyph": "髟",
+      "baseCodepoint": "U+9ADF",
+      "strokeCount": 10
+    },
+    "191": {
+      "id": 191,
+      "glyph": "⾾",
+      "codepoint": "U+2FBE",
+      "baseGlyph": "鬥",
+      "baseCodepoint": "U+9B25",
+      "strokeCount": 10
+    },
+    "193": {
+      "id": 193,
+      "glyph": "⿀",
+      "codepoint": "U+2FC0",
+      "baseGlyph": "鬲",
+      "baseCodepoint": "U+9B32",
+      "strokeCount": 10
+    },
+    "194": {
+      "id": 194,
+      "glyph": "⿁",
+      "codepoint": "U+2FC1",
+      "baseGlyph": "鬼",
+      "baseCodepoint": "U+9B3C",
+      "strokeCount": 9
+    },
+    "198": {
+      "id": 198,
+      "glyph": "⿅",
+      "codepoint": "U+2FC5",
+      "baseGlyph": "鹿",
+      "baseCodepoint": "U+9E7F",
+      "strokeCount": 11
+    },
+    "200": {
+      "id": 200,
+      "glyph": "⿇",
+      "codepoint": "U+2FC7",
+      "baseGlyph": "麻",
+      "baseCodepoint": "U+9EBB",
+      "strokeCount": 11
+    },
+    "202": {
+      "id": 202,
+      "glyph": "⿉",
+      "codepoint": "U+2FC9",
+      "baseGlyph": "黍",
+      "baseCodepoint": "U+9ECD",
+      "strokeCount": 12
+    },
+    "203": {
+      "id": 203,
+      "glyph": "⿊",
+      "codepoint": "U+2FCA",
+      "baseGlyph": "黑",
+      "baseCodepoint": "U+9ED1",
+      "strokeCount": 12
+    },
+    "206": {
+      "id": 206,
+      "glyph": "⿍",
+      "codepoint": "U+2FCD",
+      "baseGlyph": "鼎",
+      "baseCodepoint": "U+9F0E",
+      "strokeCount": 12
+    },
+    "207": {
+      "id": 207,
+      "glyph": "⿎",
+      "codepoint": "U+2FCE",
+      "baseGlyph": "鼓",
+      "baseCodepoint": "U+9F13",
+      "strokeCount": 13
+    },
+    "208": {
+      "id": 208,
+      "glyph": "⿏",
+      "codepoint": "U+2FCF",
+      "baseGlyph": "鼠",
+      "baseCodepoint": "U+9F20",
+      "strokeCount": 13
+    },
+    "209": {
+      "id": 209,
+      "glyph": "⿐",
+      "codepoint": "U+2FD0",
+      "baseGlyph": "鼻",
+      "baseCodepoint": "U+9F3B",
+      "strokeCount": 14
+    },
+    "214": {
+      "id": 214,
+      "glyph": "⿕",
+      "codepoint": "U+2FD5",
+      "baseGlyph": "龠",
+      "baseCodepoint": "U+9FA0",
+      "strokeCount": 17
+    }
+  },
+  "SimplifiedRadicals": {
+    "1": {
+      "id": 1,
+      "strokeCount": 1,
+      "aliases": [],
+      "glyph": "一",
+      "codepoint": "U+4E00",
+      "baseGlyph": "一",
+      "baseCodepoint": "U+4E00"
+    },
+    "2": {
+      "id": 2,
+      "strokeCount": 1,
+      "aliases": [],
+      "glyph": "丨",
+      "codepoint": "U+4E28",
+      "baseGlyph": "丨",
+      "baseCodepoint": "U+4E28"
+    },
+    "3": {
+      "id": 3,
+      "strokeCount": 1,
+      "aliases": [],
+      "glyph": "丿",
+      "codepoint": "U+4E3F",
+      "baseGlyph": "丿",
+      "baseCodepoint": "U+4E3F"
+    },
+    "4": {
+      "id": 4,
+      "strokeCount": 1,
+      "aliases": [],
+      "glyph": "丶",
+      "codepoint": "U+4E36",
+      "baseGlyph": "丶",
+      "baseCodepoint": "U+4E36"
+    },
+    "5": {
+      "id": 5,
+      "strokeCount": 1,
+      "aliases": [],
+      "glyph": "乛",
+      "codepoint": "U+4E5B",
+      "baseGlyph": "乛",
+      "baseCodepoint": "U+4E5B"
+    },
+    "6": {
+      "id": 6,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "十",
+      "codepoint": "U+5341",
+      "baseGlyph": "十",
+      "baseCodepoint": "U+5341"
+    },
+    "7": {
+      "id": 7,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "厂",
+      "codepoint": "U+5382",
+      "baseGlyph": "厂",
+      "baseCodepoint": "U+5382"
+    },
+    "8": {
+      "id": 8,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "匚",
+      "codepoint": "U+531A",
+      "baseGlyph": "匚",
+      "baseCodepoint": "U+531A"
+    },
+    "9": {
+      "id": 9,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "卜",
+      "codepoint": "U+535C",
+      "baseGlyph": "卜",
+      "baseCodepoint": "U+535C"
+    },
+    "10": {
+      "id": 10,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "冂",
+      "codepoint": "U+5182",
+      "baseGlyph": "冂",
+      "baseCodepoint": "U+5182"
+    },
+    "11": {
+      "id": 11,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "八",
+      "codepoint": "U+516B",
+      "baseGlyph": "八",
+      "baseCodepoint": "U+516B"
+    },
+    "12": {
+      "id": 12,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "人",
+      "codepoint": "U+4EBA",
+      "baseGlyph": "人",
+      "baseCodepoint": "U+4EBA"
+    },
+    "13": {
+      "id": 13,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "勹",
+      "codepoint": "U+52F9",
+      "baseGlyph": "勹",
+      "baseCodepoint": "U+52F9"
+    },
+    "14": {
+      "id": 14,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "儿",
+      "codepoint": "U+513F",
+      "baseGlyph": "儿",
+      "baseCodepoint": "U+513F"
+    },
+    "15": {
+      "id": 15,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "匕",
+      "codepoint": "U+5315",
+      "baseGlyph": "匕",
+      "baseCodepoint": "U+5315"
+    },
+    "16": {
+      "id": 16,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "几",
+      "codepoint": "U+51E0",
+      "baseGlyph": "几",
+      "baseCodepoint": "U+51E0"
+    },
+    "17": {
+      "id": 17,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "亠",
+      "codepoint": "U+4EA0",
+      "baseGlyph": "亠",
+      "baseCodepoint": "U+4EA0"
+    },
+    "18": {
+      "id": 18,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "冫",
+      "codepoint": "U+51AB",
+      "baseGlyph": "冫",
+      "baseCodepoint": "U+51AB"
+    },
+    "19": {
+      "id": 19,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "冖",
+      "codepoint": "U+5196",
+      "baseGlyph": "冖",
+      "baseCodepoint": "U+5196"
+    },
+    "20": {
+      "id": 20,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "凵",
+      "codepoint": "U+51F5",
+      "baseGlyph": "凵",
+      "baseCodepoint": "U+51F5"
+    },
+    "21": {
+      "id": 21,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "卩",
+      "codepoint": "U+5369",
+      "baseGlyph": "卩",
+      "baseCodepoint": "U+5369"
+    },
+    "22": {
+      "id": 22,
+      "strokeCount": 2,
+      "aliases": [
+        {
+          "glyph": "刂",
+          "codepoint": "U+5202",
+          "baseGlyph": "刂",
+          "baseCodepoint": "U+5202"
+        },
+        {
+          "glyph": "⺈",
+          "codepoint": "U+2E88",
+          "baseGlyph": "⺈",
+          "baseCodepoint": "U+2E88"
+        }
+      ],
+      "glyph": "刀",
+      "codepoint": "U+5200",
+      "baseGlyph": "刀",
+      "baseCodepoint": "U+5200"
+    },
+    "23": {
+      "id": 23,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "力",
+      "codepoint": "U+529B",
+      "baseGlyph": "力",
+      "baseCodepoint": "U+529B"
+    },
+    "24": {
+      "id": 24,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "又",
+      "codepoint": "U+53C8",
+      "baseGlyph": "又",
+      "baseCodepoint": "U+53C8"
+    },
+    "25": {
+      "id": 25,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "厶",
+      "codepoint": "U+53B6",
+      "baseGlyph": "厶",
+      "baseCodepoint": "U+53B6"
+    },
+    "26": {
+      "id": 26,
+      "strokeCount": 2,
+      "aliases": [],
+      "glyph": "廴",
+      "codepoint": "U+5EF4",
+      "baseGlyph": "廴",
+      "baseCodepoint": "U+5EF4"
+    },
+    "27": {
+      "id": 27,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "干",
+      "codepoint": "U+5E72",
+      "baseGlyph": "干",
+      "baseCodepoint": "U+5E72"
+    },
+    "28": {
+      "id": 28,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "工",
+      "codepoint": "U+5DE5",
+      "baseGlyph": "工",
+      "baseCodepoint": "U+5DE5"
+    },
+    "29": {
+      "id": 29,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "土",
+      "codepoint": "U+571F",
+      "baseGlyph": "土",
+      "baseCodepoint": "U+571F"
+    },
+    "30": {
+      "id": 30,
+      "strokeCount": 3,
+      "aliases": [
+        {
+          "glyph": "⺾",
+          "codepoint": "U+2EBE",
+          "baseGlyph": "⺾",
+          "baseCodepoint": "U+2EBE"
+        }
+      ],
+      "glyph": "艹",
+      "codepoint": "U+8279",
+      "baseGlyph": "艹",
+      "baseCodepoint": "U+8279"
+    },
+    "31": {
+      "id": 31,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "寸",
+      "codepoint": "U+5BF8",
+      "baseGlyph": "寸",
+      "baseCodepoint": "U+5BF8"
+    },
+    "32": {
+      "id": 32,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "廾",
+      "codepoint": "U+5EFE",
+      "baseGlyph": "廾",
+      "baseCodepoint": "U+5EFE"
+    },
+    "33": {
+      "id": 33,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "大",
+      "codepoint": "U+5927",
+      "baseGlyph": "大",
+      "baseCodepoint": "U+5927"
+    },
+    "34": {
+      "id": 34,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "尢",
+      "codepoint": "U+5C22",
+      "baseGlyph": "尢",
+      "baseCodepoint": "U+5C22"
+    },
+    "35": {
+      "id": 35,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "弋",
+      "codepoint": "U+5F0B",
+      "baseGlyph": "弋",
+      "baseCodepoint": "U+5F0B"
+    },
+    "36": {
+      "id": 36,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "小",
+      "codepoint": "U+5C0F",
+      "baseGlyph": "小",
+      "baseCodepoint": "U+5C0F"
+    },
+    "37": {
+      "id": 37,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "口",
+      "codepoint": "U+53E3",
+      "baseGlyph": "口",
+      "baseCodepoint": "U+53E3"
+    },
+    "38": {
+      "id": 38,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "囗",
+      "codepoint": "U+56D7",
+      "baseGlyph": "囗",
+      "baseCodepoint": "U+56D7"
+    },
+    "39": {
+      "id": 39,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "山",
+      "codepoint": "U+5C71",
+      "baseGlyph": "山",
+      "baseCodepoint": "U+5C71"
+    },
+    "40": {
+      "id": 40,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "巾",
+      "codepoint": "U+5DFE",
+      "baseGlyph": "巾",
+      "baseCodepoint": "U+5DFE"
+    },
+    "41": {
+      "id": 41,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "彳",
+      "codepoint": "U+5F73",
+      "baseGlyph": "彳",
+      "baseCodepoint": "U+5F73"
+    },
+    "42": {
+      "id": 42,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "彡",
+      "codepoint": "U+5F61",
+      "baseGlyph": "彡",
+      "baseCodepoint": "U+5F61"
+    },
+    "43": {
+      "id": 43,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "夕",
+      "codepoint": "U+5915",
+      "baseGlyph": "夕",
+      "baseCodepoint": "U+5915"
+    },
+    "44": {
+      "id": 44,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "夂",
+      "codepoint": "U+5902",
+      "baseGlyph": "夂",
+      "baseCodepoint": "U+5902"
+    },
+    "45": {
+      "id": 45,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "丬",
+      "codepoint": "U+4E2C",
+      "baseGlyph": "丬",
+      "baseCodepoint": "U+4E2C"
+    },
+    "46": {
+      "id": 46,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "广",
+      "codepoint": "U+5E7F",
+      "baseGlyph": "广",
+      "baseCodepoint": "U+5E7F"
+    },
+    "47": {
+      "id": 47,
+      "strokeCount": 3,
+      "aliases": [
+        {
+          "glyph": "⻔",
+          "codepoint": "U+2ED4",
+          "baseGlyph": "⻔",
+          "baseCodepoint": "U+2ED4"
+        }
+      ],
+      "glyph": "门",
+      "codepoint": "U+95E8",
+      "baseGlyph": "门",
+      "baseCodepoint": "U+95E8"
+    },
+    "48": {
+      "id": 48,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "宀",
+      "codepoint": "U+5B80",
+      "baseGlyph": "宀",
+      "baseCodepoint": "U+5B80"
+    },
+    "49": {
+      "id": 49,
+      "strokeCount": 3,
+      "aliases": [
+        {
+          "glyph": "⻌",
+          "codepoint": "U+2ECC",
+          "baseGlyph": "⻌",
+          "baseCodepoint": "U+2ECC"
+        }
+      ],
+      "glyph": "辶",
+      "codepoint": "U+8FB6",
+      "baseGlyph": "辶",
+      "baseCodepoint": "U+8FB6"
+    },
+    "50": {
+      "id": 50,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "彐",
+      "codepoint": "U+5F50",
+      "baseGlyph": "彐",
+      "baseCodepoint": "U+5F50"
+    },
+    "51": {
+      "id": 51,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "尸",
+      "codepoint": "U+5C38",
+      "baseGlyph": "尸",
+      "baseCodepoint": "U+5C38"
+    },
+    "52": {
+      "id": 52,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "己",
+      "codepoint": "U+5DF1",
+      "baseGlyph": "己",
+      "baseCodepoint": "U+5DF1"
+    },
+    "53": {
+      "id": 53,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "弓",
+      "codepoint": "U+5F13",
+      "baseGlyph": "弓",
+      "baseCodepoint": "U+5F13"
+    },
+    "54": {
+      "id": 54,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "子",
+      "codepoint": "U+5B50",
+      "baseGlyph": "子",
+      "baseCodepoint": "U+5B50"
+    },
+    "55": {
+      "id": 55,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "屮",
+      "codepoint": "U+5C6E",
+      "baseGlyph": "屮",
+      "baseCodepoint": "U+5C6E"
+    },
+    "56": {
+      "id": 56,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "女",
+      "codepoint": "U+5973",
+      "baseGlyph": "女",
+      "baseCodepoint": "U+5973"
+    },
+    "57": {
+      "id": 57,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "飞",
+      "codepoint": "U+98DE",
+      "baseGlyph": "飞",
+      "baseCodepoint": "U+98DE"
+    },
+    "58": {
+      "id": 58,
+      "strokeCount": 3,
+      "aliases": [
+        {
+          "glyph": "⻢",
+          "codepoint": "U+2EE2",
+          "baseGlyph": "⻢",
+          "baseCodepoint": "U+2EE2"
+        }
+      ],
+      "glyph": "马",
+      "codepoint": "U+9A6C",
+      "baseGlyph": "马",
+      "baseCodepoint": "U+9A6C"
+    },
+    "59": {
+      "id": 59,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "么",
+      "codepoint": "U+4E48",
+      "baseGlyph": "么",
+      "baseCodepoint": "U+4E48"
+    },
+    "60": {
+      "id": 60,
+      "strokeCount": 3,
+      "aliases": [],
+      "glyph": "巛",
+      "codepoint": "U+5DDB",
+      "baseGlyph": "巛",
+      "baseCodepoint": "U+5DDB"
+    },
+    "61": {
+      "id": 61,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "⺩",
+          "codepoint": "U+2EA9",
+          "baseGlyph": "⺩",
+          "baseCodepoint": "U+2EA9"
+        }
+      ],
+      "glyph": "王",
+      "codepoint": "U+738B",
+      "baseGlyph": "王",
+      "baseCodepoint": "U+738B"
+    },
+    "62": {
+      "id": 62,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "无",
+      "codepoint": "U+65E0",
+      "baseGlyph": "无",
+      "baseCodepoint": "U+65E0"
+    },
+    "63": {
+      "id": 63,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "⻙",
+          "codepoint": "U+2ED9",
+          "baseGlyph": "⻙",
+          "baseCodepoint": "U+2ED9"
+        }
+      ],
+      "glyph": "韦",
+      "codepoint": "U+97E6",
+      "baseGlyph": "韦",
+      "baseCodepoint": "U+97E6"
+    },
+    "64": {
+      "id": 64,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "木",
+      "codepoint": "U+6728",
+      "baseGlyph": "木",
+      "baseCodepoint": "U+6728"
+    },
+    "65": {
+      "id": 65,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "支",
+      "codepoint": "U+652F",
+      "baseGlyph": "支",
+      "baseCodepoint": "U+652F"
+    },
+    "66": {
+      "id": 66,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "犭",
+          "codepoint": "U+72AD",
+          "baseGlyph": "犭",
+          "baseCodepoint": "U+72AD"
+        },
+        {
+          "glyph": "⺨",
+          "codepoint": "U+2EA8",
+          "baseGlyph": "⺨",
+          "baseCodepoint": "U+2EA8"
+        }
+      ],
+      "glyph": "犬",
+      "codepoint": "U+72AC",
+      "baseGlyph": "犬",
+      "baseCodepoint": "U+72AC"
+    },
+    "67": {
+      "id": 67,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "歹",
+      "codepoint": "U+6B79",
+      "baseGlyph": "歹",
+      "baseCodepoint": "U+6B79"
+    },
+    "68": {
+      "id": 68,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "车",
+      "codepoint": "U+8F66",
+      "baseGlyph": "车",
+      "baseCodepoint": "U+8F66"
+    },
+    "69": {
+      "id": 69,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "牙",
+      "codepoint": "U+7259",
+      "baseGlyph": "牙",
+      "baseCodepoint": "U+7259"
+    },
+    "70": {
+      "id": 70,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "戈",
+      "codepoint": "U+6208",
+      "baseGlyph": "戈",
+      "baseCodepoint": "U+6208"
+    },
+    "71": {
+      "id": 71,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "比",
+      "codepoint": "U+6BD4",
+      "baseGlyph": "比",
+      "baseCodepoint": "U+6BD4"
+    },
+    "72": {
+      "id": 72,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "瓦",
+      "codepoint": "U+74E6",
+      "baseGlyph": "瓦",
+      "baseCodepoint": "U+74E6"
+    },
+    "73": {
+      "id": 73,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "止",
+      "codepoint": "U+6B62",
+      "baseGlyph": "止",
+      "baseCodepoint": "U+6B62"
+    },
+    "74": {
+      "id": 74,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "攵",
+          "codepoint": "U+6535",
+          "baseGlyph": "攵",
+          "baseCodepoint": "U+6535"
+        }
+      ],
+      "glyph": "攴",
+      "codepoint": "U+6534",
+      "baseGlyph": "攴",
+      "baseCodepoint": "U+6534"
+    },
+    "75": {
+      "id": 75,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "日",
+      "codepoint": "U+65E5",
+      "baseGlyph": "日",
+      "baseCodepoint": "U+65E5"
+    },
+    "76": {
+      "id": 76,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "贝",
+      "codepoint": "U+8D1D",
+      "baseGlyph": "贝",
+      "baseCodepoint": "U+8D1D"
+    },
+    "77": {
+      "id": 77,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "氵",
+          "codepoint": "U+6C35",
+          "baseGlyph": "氵",
+          "baseCodepoint": "U+6C35"
+        }
+      ],
+      "glyph": "水",
+      "codepoint": "U+6C34",
+      "baseGlyph": "水",
+      "baseCodepoint": "U+6C34"
+    },
+    "78": {
+      "id": 78,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "见",
+      "codepoint": "U+89C1",
+      "baseGlyph": "见",
+      "baseCodepoint": "U+89C1"
+    },
+    "79": {
+      "id": 79,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "牜",
+          "codepoint": "U+725C",
+          "baseGlyph": "牜",
+          "baseCodepoint": "U+725C"
+        },
+        {
+          "glyph": "⺧",
+          "codepoint": "U+2EA7",
+          "baseGlyph": "⺧",
+          "baseCodepoint": "U+2EA7"
+        }
+      ],
+      "glyph": "牛",
+      "codepoint": "U+725B",
+      "baseGlyph": "牛",
+      "baseCodepoint": "U+725B"
+    },
+    "80": {
+      "id": 80,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "扌",
+          "codepoint": "U+624C",
+          "baseGlyph": "扌",
+          "baseCodepoint": "U+624C"
+        }
+      ],
+      "glyph": "手",
+      "codepoint": "U+624B",
+      "baseGlyph": "手",
+      "baseCodepoint": "U+624B"
+    },
+    "81": {
+      "id": 81,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "气",
+      "codepoint": "U+6C14",
+      "baseGlyph": "气",
+      "baseCodepoint": "U+6C14"
+    },
+    "82": {
+      "id": 82,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "毛",
+      "codepoint": "U+6BDB",
+      "baseGlyph": "毛",
+      "baseCodepoint": "U+6BDB"
+    },
+    "83": {
+      "id": 83,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "长",
+      "codepoint": "U+957F",
+      "baseGlyph": "长",
+      "baseCodepoint": "U+957F"
+    },
+    "84": {
+      "id": 84,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "片",
+      "codepoint": "U+7247",
+      "baseGlyph": "片",
+      "baseCodepoint": "U+7247"
+    },
+    "85": {
+      "id": 85,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "斤",
+      "codepoint": "U+65A4",
+      "baseGlyph": "斤",
+      "baseCodepoint": "U+65A4"
+    },
+    "86": {
+      "id": 86,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "爪",
+      "codepoint": "U+722A",
+      "baseGlyph": "爪",
+      "baseCodepoint": "U+722A"
+    },
+    "87": {
+      "id": 87,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "父",
+      "codepoint": "U+7236",
+      "baseGlyph": "父",
+      "baseCodepoint": "U+7236"
+    },
+    "88": {
+      "id": 88,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "⺼",
+          "codepoint": "U+2EBC",
+          "baseGlyph": "⺼",
+          "baseCodepoint": "U+2EBC"
+        }
+      ],
+      "glyph": "月",
+      "codepoint": "U+6708",
+      "baseGlyph": "月",
+      "baseCodepoint": "U+6708"
+    },
+    "89": {
+      "id": 89,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "氏",
+      "codepoint": "U+6C0F",
+      "baseGlyph": "氏",
+      "baseCodepoint": "U+6C0F"
+    },
+    "90": {
+      "id": 90,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "欠",
+      "codepoint": "U+6B20",
+      "baseGlyph": "欠",
+      "baseCodepoint": "U+6B20"
+    },
+    "91": {
+      "id": 91,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "⻛",
+          "codepoint": "U+2EDB",
+          "baseGlyph": "⻛",
+          "baseCodepoint": "U+2EDB"
+        }
+      ],
+      "glyph": "风",
+      "codepoint": "U+98CE",
+      "baseGlyph": "风",
+      "baseCodepoint": "U+98CE"
+    },
+    "92": {
+      "id": 92,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "殳",
+      "codepoint": "U+6BB3",
+      "baseGlyph": "殳",
+      "baseCodepoint": "U+6BB3"
+    },
+    "93": {
+      "id": 93,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "文",
+      "codepoint": "U+6587",
+      "baseGlyph": "文",
+      "baseCodepoint": "U+6587"
+    },
+    "94": {
+      "id": 94,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "方",
+      "codepoint": "U+65B9",
+      "baseGlyph": "方",
+      "baseCodepoint": "U+65B9"
+    },
+    "95": {
+      "id": 95,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "灬",
+          "codepoint": "U+706C",
+          "baseGlyph": "灬",
+          "baseCodepoint": "U+706C"
+        }
+      ],
+      "glyph": "火",
+      "codepoint": "U+706B",
+      "baseGlyph": "火",
+      "baseCodepoint": "U+706B"
+    },
+    "96": {
+      "id": 96,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "斗",
+      "codepoint": "U+6597",
+      "baseGlyph": "斗",
+      "baseCodepoint": "U+6597"
+    },
+    "97": {
+      "id": 97,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "户",
+      "codepoint": "U+6237",
+      "baseGlyph": "户",
+      "baseCodepoint": "U+6237"
+    },
+    "98": {
+      "id": 98,
+      "strokeCount": 4,
+      "aliases": [
+        {
+          "glyph": "忄",
+          "codepoint": "U+5FC4",
+          "baseGlyph": "忄",
+          "baseCodepoint": "U+5FC4"
+        },
+        {
+          "glyph": "⺗",
+          "codepoint": "U+2E97",
+          "baseGlyph": "⺗",
+          "baseCodepoint": "U+2E97"
+        }
+      ],
+      "glyph": "心",
+      "codepoint": "U+5FC3",
+      "baseGlyph": "心",
+      "baseCodepoint": "U+5FC3"
+    },
+    "99": {
+      "id": 99,
+      "strokeCount": 4,
+      "aliases": [],
+      "glyph": "毋",
+      "codepoint": "U+6BCB",
+      "baseGlyph": "毋",
+      "baseCodepoint": "U+6BCB"
+    },
+    "100": {
+      "id": 100,
+      "strokeCount": 5,
+      "aliases": [
+        {
+          "glyph": "礻",
+          "codepoint": "U+793B",
+          "baseGlyph": "礻",
+          "baseCodepoint": "U+793B"
+        }
+      ],
+      "glyph": "示",
+      "codepoint": "U+793A",
+      "baseGlyph": "示",
+      "baseCodepoint": "U+793A"
+    },
+    "101": {
+      "id": 101,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "甘",
+      "codepoint": "U+7518",
+      "baseGlyph": "甘",
+      "baseCodepoint": "U+7518"
+    },
+    "102": {
+      "id": 102,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "石",
+      "codepoint": "U+77F3",
+      "baseGlyph": "石",
+      "baseCodepoint": "U+77F3"
+    },
+    "103": {
+      "id": 103,
+      "strokeCount": 5,
+      "aliases": [
+        {
+          "glyph": "⻰",
+          "codepoint": "U+2EF0",
+          "baseGlyph": "⻰",
+          "baseCodepoint": "U+2EF0"
+        }
+      ],
+      "glyph": "龙",
+      "codepoint": "U+9F99",
+      "baseGlyph": "龙",
+      "baseCodepoint": "U+9F99"
+    },
+    "104": {
+      "id": 104,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "业",
+      "codepoint": "U+4E1A",
+      "baseGlyph": "业",
+      "baseCodepoint": "U+4E1A"
+    },
+    "105": {
+      "id": 105,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "目",
+      "codepoint": "U+76EE",
+      "baseGlyph": "目",
+      "baseCodepoint": "U+76EE"
+    },
+    "106": {
+      "id": 106,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "田",
+      "codepoint": "U+7530",
+      "baseGlyph": "田",
+      "baseCodepoint": "U+7530"
+    },
+    "107": {
+      "id": 107,
+      "strokeCount": 5,
+      "aliases": [
+        {
+          "glyph": "罓",
+          "codepoint": "U+7F53",
+          "baseGlyph": "罓",
+          "baseCodepoint": "U+7F53"
+        }
+      ],
+      "glyph": "罒",
+      "codepoint": "U+7F52",
+      "baseGlyph": "罒",
+      "baseCodepoint": "U+7F52"
+    },
+    "108": {
+      "id": 108,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "皿",
+      "codepoint": "U+76BF",
+      "baseGlyph": "皿",
+      "baseCodepoint": "U+76BF"
+    },
+    "109": {
+      "id": 109,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "生",
+      "codepoint": "U+751F",
+      "baseGlyph": "生",
+      "baseCodepoint": "U+751F"
+    },
+    "110": {
+      "id": 110,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "矢",
+      "codepoint": "U+77E2",
+      "baseGlyph": "矢",
+      "baseCodepoint": "U+77E2"
+    },
+    "111": {
+      "id": 111,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "禾",
+      "codepoint": "U+79BE",
+      "baseGlyph": "禾",
+      "baseCodepoint": "U+79BE"
+    },
+    "112": {
+      "id": 112,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "白",
+      "codepoint": "U+767D",
+      "baseGlyph": "白",
+      "baseCodepoint": "U+767D"
+    },
+    "113": {
+      "id": 113,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "瓜",
+      "codepoint": "U+74DC",
+      "baseGlyph": "瓜",
+      "baseCodepoint": "U+74DC"
+    },
+    "114": {
+      "id": 114,
+      "strokeCount": 5,
+      "aliases": [
+        {
+          "glyph": "⻦",
+          "codepoint": "U+2EE6",
+          "baseGlyph": "⻦",
+          "baseCodepoint": "U+2EE6"
+        }
+      ],
+      "glyph": "鸟",
+      "codepoint": "U+9E1F",
+      "baseGlyph": "鸟",
+      "baseCodepoint": "U+9E1F"
+    },
+    "115": {
+      "id": 115,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "疒",
+      "codepoint": "U+7592",
+      "baseGlyph": "疒",
+      "baseCodepoint": "U+7592"
+    },
+    "116": {
+      "id": 116,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "立",
+      "codepoint": "U+7ACB",
+      "baseGlyph": "立",
+      "baseCodepoint": "U+7ACB"
+    },
+    "117": {
+      "id": 117,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "穴",
+      "codepoint": "U+7A74",
+      "baseGlyph": "穴",
+      "baseCodepoint": "U+7A74"
+    },
+    "118": {
+      "id": 118,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "疋",
+      "codepoint": "U+758B",
+      "baseGlyph": "疋",
+      "baseCodepoint": "U+758B"
+    },
+    "119": {
+      "id": 119,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "皮",
+      "codepoint": "U+76AE",
+      "baseGlyph": "皮",
+      "baseCodepoint": "U+76AE"
+    },
+    "120": {
+      "id": 120,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "癶",
+      "codepoint": "U+7676",
+      "baseGlyph": "癶",
+      "baseCodepoint": "U+7676"
+    },
+    "121": {
+      "id": 121,
+      "strokeCount": 5,
+      "aliases": [],
+      "glyph": "矛",
+      "codepoint": "U+77DB",
+      "baseGlyph": "矛",
+      "baseCodepoint": "U+77DB"
+    },
+    "122": {
+      "id": 122,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "耒",
+      "codepoint": "U+8012",
+      "baseGlyph": "耒",
+      "baseCodepoint": "U+8012"
+    },
+    "123": {
+      "id": 123,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "老",
+      "codepoint": "U+8001",
+      "baseGlyph": "老",
+      "baseCodepoint": "U+8001"
+    },
+    "124": {
+      "id": 124,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "耳",
+      "codepoint": "U+8033",
+      "baseGlyph": "耳",
+      "baseCodepoint": "U+8033"
+    },
+    "125": {
+      "id": 125,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "臣",
+      "codepoint": "U+81E3",
+      "baseGlyph": "臣",
+      "baseCodepoint": "U+81E3"
+    },
+    "126": {
+      "id": 126,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "覀",
+      "codepoint": "U+8980",
+      "baseGlyph": "覀",
+      "baseCodepoint": "U+8980"
+    },
+    "127": {
+      "id": 127,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "而",
+      "codepoint": "U+800C",
+      "baseGlyph": "而",
+      "baseCodepoint": "U+800C"
+    },
+    "128": {
+      "id": 128,
+      "strokeCount": 6,
+      "aliases": [
+        {
+          "glyph": "⻚",
+          "codepoint": "U+2EDA",
+          "baseGlyph": "⻚",
+          "baseCodepoint": "U+2EDA"
+        }
+      ],
+      "glyph": "页",
+      "codepoint": "U+9875",
+      "baseGlyph": "页",
+      "baseCodepoint": "U+9875"
+    },
+    "129": {
+      "id": 129,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "至",
+      "codepoint": "U+81F3",
+      "baseGlyph": "至",
+      "baseCodepoint": "U+81F3"
+    },
+    "130": {
+      "id": 130,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "虍",
+      "codepoint": "U+864D",
+      "baseGlyph": "虍",
+      "baseCodepoint": "U+864D"
+    },
+    "131": {
+      "id": 131,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "虫",
+      "codepoint": "U+866B",
+      "baseGlyph": "虫",
+      "baseCodepoint": "U+866B"
+    },
+    "132": {
+      "id": 132,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "肉",
+      "codepoint": "U+8089",
+      "baseGlyph": "肉",
+      "baseCodepoint": "U+8089"
+    },
+    "133": {
+      "id": 133,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "缶",
+      "codepoint": "U+7F36",
+      "baseGlyph": "缶",
+      "baseCodepoint": "U+7F36"
+    },
+    "134": {
+      "id": 134,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "舌",
+      "codepoint": "U+820C",
+      "baseGlyph": "舌",
+      "baseCodepoint": "U+820C"
+    },
+    "135": {
+      "id": 135,
+      "strokeCount": 6,
+      "aliases": [
+        {
+          "glyph": "⺮",
+          "codepoint": "U+2EAE",
+          "baseGlyph": "⺮",
+          "baseCodepoint": "U+2EAE"
+        }
+      ],
+      "glyph": "竹",
+      "codepoint": "U+7AF9",
+      "baseGlyph": "竹",
+      "baseCodepoint": "U+7AF9"
+    },
+    "136": {
+      "id": 136,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "臼",
+      "codepoint": "U+81FC",
+      "baseGlyph": "臼",
+      "baseCodepoint": "U+81FC"
+    },
+    "137": {
+      "id": 137,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "自",
+      "codepoint": "U+81EA",
+      "baseGlyph": "自",
+      "baseCodepoint": "U+81EA"
+    },
+    "138": {
+      "id": 138,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "血",
+      "codepoint": "U+8840",
+      "baseGlyph": "血",
+      "baseCodepoint": "U+8840"
+    },
+    "139": {
+      "id": 139,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "舟",
+      "codepoint": "U+821F",
+      "baseGlyph": "舟",
+      "baseCodepoint": "U+821F"
+    },
+    "140": {
+      "id": 140,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "色",
+      "codepoint": "U+8272",
+      "baseGlyph": "色",
+      "baseCodepoint": "U+8272"
+    },
+    "141": {
+      "id": 141,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "齐",
+      "codepoint": "U+9F50",
+      "baseGlyph": "齐",
+      "baseCodepoint": "U+9F50"
+    },
+    "142": {
+      "id": 142,
+      "strokeCount": 6,
+      "aliases": [
+        {
+          "glyph": "衤",
+          "codepoint": "U+8864",
+          "baseGlyph": "衤",
+          "baseCodepoint": "U+8864"
+        }
+      ],
+      "glyph": "衣",
+      "codepoint": "U+8863",
+      "baseGlyph": "衣",
+      "baseCodepoint": "U+8863"
+    },
+    "143": {
+      "id": 143,
+      "strokeCount": 6,
+      "aliases": [
+        {
+          "glyph": "⺶",
+          "codepoint": "U+2EB6",
+          "baseGlyph": "⺶",
+          "baseCodepoint": "U+2EB6"
+        },
+        {
+          "glyph": "⺷",
+          "codepoint": "U+2EB7",
+          "baseGlyph": "⺷",
+          "baseCodepoint": "U+2EB7"
+        }
+      ],
+      "glyph": "羊",
+      "codepoint": "U+7F8A",
+      "baseGlyph": "羊",
+      "baseCodepoint": "U+7F8A"
+    },
+    "144": {
+      "id": 144,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "米",
+      "codepoint": "U+7C73",
+      "baseGlyph": "米",
+      "baseCodepoint": "U+7C73"
+    },
+    "145": {
+      "id": 145,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "聿",
+      "codepoint": "U+807F",
+      "baseGlyph": "聿",
+      "baseCodepoint": "U+807F"
+    },
+    "146": {
+      "id": 146,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "艮",
+      "codepoint": "U+826E",
+      "baseGlyph": "艮",
+      "baseCodepoint": "U+826E"
+    },
+    "147": {
+      "id": 147,
+      "strokeCount": 6,
+      "aliases": [],
+      "glyph": "羽",
+      "codepoint": "U+7FBD",
+      "baseGlyph": "羽",
+      "baseCodepoint": "U+7FBD"
+    },
+    "148": {
+      "id": 148,
+      "strokeCount": 6,
+      "aliases": [
+        {
+          "glyph": "纟",
+          "codepoint": "U+7E9F",
+          "baseGlyph": "纟",
+          "baseCodepoint": "U+7E9F"
+        }
+      ],
+      "glyph": "糸",
+      "codepoint": "U+7CF8",
+      "baseGlyph": "糸",
+      "baseCodepoint": "U+7CF8"
+    },
+    "149": {
+      "id": 149,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "⻨",
+          "codepoint": "U+2EE8",
+          "baseGlyph": "⻨",
+          "baseCodepoint": "U+2EE8"
+        }
+      ],
+      "glyph": "麦",
+      "codepoint": "U+9EA6",
+      "baseGlyph": "麦",
+      "baseCodepoint": "U+9EA6"
+    },
+    "150": {
+      "id": 150,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "⻍",
+          "codepoint": "U+2ECD",
+          "baseGlyph": "⻍",
+          "baseCodepoint": "U+2ECD"
+        }
+      ],
+      "glyph": "走",
+      "codepoint": "U+8D70",
+      "baseGlyph": "走",
+      "baseCodepoint": "U+8D70"
+    },
+    "151": {
+      "id": 151,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "赤",
+      "codepoint": "U+8D64",
+      "baseGlyph": "赤",
+      "baseCodepoint": "U+8D64"
+    },
+    "152": {
+      "id": 152,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "豆",
+      "codepoint": "U+8C46",
+      "baseGlyph": "豆",
+      "baseCodepoint": "U+8C46"
+    },
+    "153": {
+      "id": 153,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "酉",
+      "codepoint": "U+9149",
+      "baseGlyph": "酉",
+      "baseCodepoint": "U+9149"
+    },
+    "154": {
+      "id": 154,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "辰",
+      "codepoint": "U+8FB0",
+      "baseGlyph": "辰",
+      "baseCodepoint": "U+8FB0"
+    },
+    "155": {
+      "id": 155,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "豕",
+      "codepoint": "U+8C55",
+      "baseGlyph": "豕",
+      "baseCodepoint": "U+8C55"
+    },
+    "156": {
+      "id": 156,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "卤",
+      "codepoint": "U+5364",
+      "baseGlyph": "卤",
+      "baseCodepoint": "U+5364"
+    },
+    "157": {
+      "id": 157,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "里",
+      "codepoint": "U+91CC",
+      "baseGlyph": "里",
+      "baseCodepoint": "U+91CC"
+    },
+    "158": {
+      "id": 158,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "⻊",
+          "codepoint": "U+2ECA",
+          "baseGlyph": "⻊",
+          "baseCodepoint": "U+2ECA"
+        }
+      ],
+      "glyph": "足",
+      "codepoint": "U+8DB3",
+      "baseGlyph": "足",
+      "baseCodepoint": "U+8DB3"
+    },
+    "159": {
+      "id": 159,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "⻏",
+          "codepoint": "U+2ECF",
+          "baseGlyph": "⻏",
+          "baseCodepoint": "U+2ECF"
+        }
+      ],
+      "glyph": "邑",
+      "codepoint": "U+9091",
+      "baseGlyph": "邑",
+      "baseCodepoint": "U+9091"
+    },
+    "160": {
+      "id": 160,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "身",
+      "codepoint": "U+8EAB",
+      "baseGlyph": "身",
+      "baseCodepoint": "U+8EAB"
+    },
+    "161": {
+      "id": 161,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "釆",
+      "codepoint": "U+91C6",
+      "baseGlyph": "釆",
+      "baseCodepoint": "U+91C6"
+    },
+    "162": {
+      "id": 162,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "谷",
+      "codepoint": "U+8C37",
+      "baseGlyph": "谷",
+      "baseCodepoint": "U+8C37"
+    },
+    "163": {
+      "id": 163,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "豸",
+      "codepoint": "U+8C78",
+      "baseGlyph": "豸",
+      "baseCodepoint": "U+8C78"
+    },
+    "164": {
+      "id": 164,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "⻳",
+          "codepoint": "U+2EF3",
+          "baseGlyph": "⻳",
+          "baseCodepoint": "U+2EF3"
+        }
+      ],
+      "glyph": "龟",
+      "codepoint": "U+9F9F",
+      "baseGlyph": "龟",
+      "baseCodepoint": "U+9F9F"
+    },
+    "165": {
+      "id": 165,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "角",
+      "codepoint": "U+89D2",
+      "baseGlyph": "角",
+      "baseCodepoint": "U+89D2"
+    },
+    "166": {
+      "id": 166,
+      "strokeCount": 7,
+      "aliases": [
+        {
+          "glyph": "讠",
+          "codepoint": "U+8BA0",
+          "baseGlyph": "讠",
+          "baseCodepoint": "U+8BA0"
+        }
+      ],
+      "glyph": "言",
+      "codepoint": "U+8A00",
+      "baseGlyph": "言",
+      "baseCodepoint": "U+8A00"
+    },
+    "167": {
+      "id": 167,
+      "strokeCount": 7,
+      "aliases": [],
+      "glyph": "辛",
+      "codepoint": "U+8F9B",
+      "baseGlyph": "辛",
+      "baseCodepoint": "U+8F9B"
+    },
+    "168": {
+      "id": 168,
+      "strokeCount": 8,
+      "aliases": [
+        {
+          "glyph": "⻘",
+          "codepoint": "U+2ED8",
+          "baseGlyph": "⻘",
+          "baseCodepoint": "U+2ED8"
+        }
+      ],
+      "glyph": "青",
+      "codepoint": "U+9752",
+      "baseGlyph": "青",
+      "baseCodepoint": "U+9752"
+    },
+    "169": {
+      "id": 169,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "龺",
+      "codepoint": "U+9FBA",
+      "baseGlyph": "龺",
+      "baseCodepoint": "U+9FBA"
+    },
+    "170": {
+      "id": 170,
+      "strokeCount": 8,
+      "aliases": [
+        {
+          "glyph": "⻗",
+          "codepoint": "U+2ED7",
+          "baseGlyph": "⻗",
+          "baseCodepoint": "U+2ED7"
+        },
+        {
+          "glyph": "⺀",
+          "codepoint": "U+2E80",
+          "baseGlyph": "⺀",
+          "baseCodepoint": "U+2E80"
+        }
+      ],
+      "glyph": "雨",
+      "codepoint": "U+96E8",
+      "baseGlyph": "雨",
+      "baseCodepoint": "U+96E8"
+    },
+    "171": {
+      "id": 171,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "非",
+      "codepoint": "U+975E",
+      "baseGlyph": "非",
+      "baseCodepoint": "U+975E"
+    },
+    "172": {
+      "id": 172,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "齿",
+      "codepoint": "U+9F7F",
+      "baseGlyph": "齿",
+      "baseCodepoint": "U+9F7F"
+    },
+    "173": {
+      "id": 173,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "黾",
+      "codepoint": "U+9EFE",
+      "baseGlyph": "黾",
+      "baseCodepoint": "U+9EFE"
+    },
+    "174": {
+      "id": 174,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "隹",
+      "codepoint": "U+96B9",
+      "baseGlyph": "隹",
+      "baseCodepoint": "U+96B9"
+    },
+    "175": {
+      "id": 175,
+      "strokeCount": 8,
+      "aliases": [
+        {
+          "glyph": "⻖",
+          "codepoint": "U+2ED6",
+          "baseGlyph": "⻖",
+          "baseCodepoint": "U+2ED6"
+        }
+      ],
+      "glyph": "阜",
+      "codepoint": "U+961C",
+      "baseGlyph": "阜",
+      "baseCodepoint": "U+961C"
+    },
+    "176": {
+      "id": 176,
+      "strokeCount": 8,
+      "aliases": [
+        {
+          "glyph": "钅",
+          "codepoint": "U+9485",
+          "baseGlyph": "钅",
+          "baseCodepoint": "U+9485"
+        }
+      ],
+      "glyph": "金",
+      "codepoint": "U+91D1",
+      "baseGlyph": "金",
+      "baseCodepoint": "U+91D1"
+    },
+    "177": {
+      "id": 177,
+      "strokeCount": 8,
+      "aliases": [
+        {
+          "glyph": "⻥",
+          "codepoint": "U+2EE5",
+          "baseGlyph": "⻥",
+          "baseCodepoint": "U+2EE5"
+        }
+      ],
+      "glyph": "鱼",
+      "codepoint": "U+9C7C",
+      "baseGlyph": "鱼",
+      "baseCodepoint": "U+9C7C"
+    },
+    "178": {
+      "id": 178,
+      "strokeCount": 8,
+      "aliases": [],
+      "glyph": "隶",
+      "codepoint": "U+96B6",
+      "baseGlyph": "隶",
+      "baseCodepoint": "U+96B6"
+    },
+    "179": {
+      "id": 179,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "革",
+      "codepoint": "U+9769",
+      "baseGlyph": "革",
+      "baseCodepoint": "U+9769"
+    },
+    "180": {
+      "id": 180,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "面",
+      "codepoint": "U+9762",
+      "baseGlyph": "面",
+      "baseCodepoint": "U+9762"
+    },
+    "181": {
+      "id": 181,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "韭",
+      "codepoint": "U+97ED",
+      "baseGlyph": "韭",
+      "baseCodepoint": "U+97ED"
+    },
+    "182": {
+      "id": 182,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "骨",
+      "codepoint": "U+9AA8",
+      "baseGlyph": "骨",
+      "baseCodepoint": "U+9AA8"
+    },
+    "183": {
+      "id": 183,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "香",
+      "codepoint": "U+9999",
+      "baseGlyph": "香",
+      "baseCodepoint": "U+9999"
+    },
+    "184": {
+      "id": 184,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "鬼",
+      "codepoint": "U+9B3C",
+      "baseGlyph": "鬼",
+      "baseCodepoint": "U+9B3C"
+    },
+    "185": {
+      "id": 185,
+      "strokeCount": 9,
+      "aliases": [
+        {
+          "glyph": "饣",
+          "codepoint": "U+9963",
+          "baseGlyph": "饣",
+          "baseCodepoint": "U+9963"
+        }
+      ],
+      "glyph": "食",
+      "codepoint": "U+98DF",
+      "baseGlyph": "食",
+      "baseCodepoint": "U+98DF"
+    },
+    "186": {
+      "id": 186,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "音",
+      "codepoint": "U+97F3",
+      "baseGlyph": "音",
+      "baseCodepoint": "U+97F3"
+    },
+    "187": {
+      "id": 187,
+      "strokeCount": 9,
+      "aliases": [],
+      "glyph": "首",
+      "codepoint": "U+9996",
+      "baseGlyph": "首",
+      "baseCodepoint": "U+9996"
+    },
+    "188": {
+      "id": 188,
+      "strokeCount": 10,
+      "aliases": [],
+      "glyph": "髟",
+      "codepoint": "U+9ADF",
+      "baseGlyph": "髟",
+      "baseCodepoint": "U+9ADF"
+    },
+    "189": {
+      "id": 189,
+      "strokeCount": 10,
+      "aliases": [],
+      "glyph": "鬲",
+      "codepoint": "U+9B32",
+      "baseGlyph": "鬲",
+      "baseCodepoint": "U+9B32"
+    },
+    "190": {
+      "id": 190,
+      "strokeCount": 10,
+      "aliases": [],
+      "glyph": "鬥",
+      "codepoint": "U+9B25",
+      "baseGlyph": "鬥",
+      "baseCodepoint": "U+9B25"
+    },
+    "191": {
+      "id": 191,
+      "strokeCount": 10,
+      "aliases": [],
+      "glyph": "高",
+      "codepoint": "U+9AD8",
+      "baseGlyph": "高",
+      "baseCodepoint": "U+9AD8"
+    },
+    "192": {
+      "id": 192,
+      "strokeCount": 11,
+      "aliases": [
+        {
+          "glyph": "⻩",
+          "codepoint": "U+2EE9",
+          "baseGlyph": "⻩",
+          "baseCodepoint": "U+2EE9"
+        }
+      ],
+      "glyph": "黄",
+      "codepoint": "U+9EC4",
+      "baseGlyph": "黄",
+      "baseCodepoint": "U+9EC4"
+    },
+    "193": {
+      "id": 193,
+      "strokeCount": 11,
+      "aliases": [],
+      "glyph": "麻",
+      "codepoint": "U+9EBB",
+      "baseGlyph": "麻",
+      "baseCodepoint": "U+9EBB"
+    },
+    "194": {
+      "id": 194,
+      "strokeCount": 11,
+      "aliases": [],
+      "glyph": "鹿",
+      "codepoint": "U+9E7F",
+      "baseGlyph": "鹿",
+      "baseCodepoint": "U+9E7F"
+    },
+    "195": {
+      "id": 195,
+      "strokeCount": 12,
+      "aliases": [],
+      "glyph": "鼎",
+      "codepoint": "U+9F0E",
+      "baseGlyph": "鼎",
+      "baseCodepoint": "U+9F0E"
+    },
+    "196": {
+      "id": 196,
+      "strokeCount": 12,
+      "aliases": [],
+      "glyph": "黑",
+      "codepoint": "U+9ED1",
+      "baseGlyph": "黑",
+      "baseCodepoint": "U+9ED1"
+    },
+    "197": {
+      "id": 197,
+      "strokeCount": 12,
+      "aliases": [],
+      "glyph": "黍",
+      "codepoint": "U+9ECD",
+      "baseGlyph": "黍",
+      "baseCodepoint": "U+9ECD"
+    },
+    "198": {
+      "id": 198,
+      "strokeCount": 13,
+      "aliases": [],
+      "glyph": "鼓",
+      "codepoint": "U+9F13",
+      "baseGlyph": "鼓",
+      "baseCodepoint": "U+9F13"
+    },
+    "199": {
+      "id": 199,
+      "strokeCount": 13,
+      "aliases": [],
+      "glyph": "鼠",
+      "codepoint": "U+9F20",
+      "baseGlyph": "鼠",
+      "baseCodepoint": "U+9F20"
+    },
+    "200": {
+      "id": 200,
+      "strokeCount": 14,
+      "aliases": [],
+      "glyph": "鼻",
+      "codepoint": "U+9F3B",
+      "baseGlyph": "鼻",
+      "baseCodepoint": "U+9F3B"
+    },
+    "201": {
+      "id": 201,
+      "strokeCount": 17,
+      "aliases": [],
+      "glyph": "龠",
+      "codepoint": "U+9FA0",
+      "baseGlyph": "龠",
+      "baseCodepoint": "U+9FA0"
+    }
+  },
+  "kangxiToSimplified": {
+    "一": [],
+    "丨": [],
+    "丶": [],
+    "丿": [],
+    "亠": [],
+    "人": [],
+    "儿": [],
+    "八": [],
+    "冂": [],
+    "冖": [],
+    "冫": [],
+    "几": [],
+    "凵": [],
+    "刀": [],
+    "力": [],
+    "勹": [],
+    "匕": [],
+    "匚": [],
+    "十": [],
+    "卜": [],
+    "卩": [],
+    "厂": [],
+    "厶": [],
+    "又": [],
+    "口": [],
+    "囗": [],
+    "土": [],
+    "夂": [],
+    "夕": [],
+    "大": [],
+    "女": [],
+    "子": [],
+    "宀": [],
+    "寸": [],
+    "小": [],
+    "尢": [],
+    "尸": [],
+    "屮": [],
+    "山": [],
+    "巛": [],
+    "工": [],
+    "己": [],
+    "巾": [],
+    "干": [],
+    "广": [],
+    "廴": [],
+    "廾": [],
+    "弋": [],
+    "弓": [],
+    "彐": [],
+    "彡": [],
+    "彳": [],
+    "心": [],
+    "戈": [],
+    "手": [],
+    "支": [],
+    "攴": [],
+    "文": [],
+    "斗": [],
+    "斤": [],
+    "方": [],
+    "无": [],
+    "日": [],
+    "月": [],
+    "木": [],
+    "欠": [],
+    "止": [],
+    "歹": [],
+    "殳": [],
+    "毋": [],
+    "比": [],
+    "毛": [],
+    "氏": [],
+    "气": [],
+    "水": [],
+    "火": [],
+    "爪": [],
+    "父": [],
+    "片": [],
+    "牙": [],
+    "牛": [],
+    "犬": [],
+    "瓜": [],
+    "瓦": [],
+    "甘": [],
+    "生": [],
+    "田": [],
+    "疋": [],
+    "疒": [],
+    "癶": [],
+    "白": [],
+    "皮": [],
+    "皿": [],
+    "目": [],
+    "矛": [],
+    "矢": [],
+    "石": [],
+    "示": [],
+    "禾": [],
+    "穴": [],
+    "立": [],
+    "竹": [],
+    "米": [],
+    "糸": [],
+    "缶": [],
+    "羊": [],
+    "羽": [],
+    "老": [],
+    "而": [],
+    "耒": [],
+    "耳": [],
+    "聿": [],
+    "肉": [],
+    "臣": [],
+    "自": [],
+    "至": [],
+    "臼": [],
+    "舌": [],
+    "舟": [],
+    "艮": [],
+    "色": [],
+    "虍": [],
+    "虫": [],
+    "血": [],
+    "衣": [],
+    "角": [],
+    "言": [],
+    "谷": [],
+    "豆": [],
+    "豕": [],
+    "豸": [],
+    "赤": [],
+    "走": [],
+    "足": [],
+    "身": [],
+    "辛": [],
+    "辰": [],
+    "邑": [],
+    "酉": [],
+    "釆": [],
+    "里": [],
+    "金": [],
+    "阜": [],
+    "隶": [],
+    "隹": [],
+    "雨": [],
+    "非": [],
+    "面": [],
+    "革": [],
+    "韭": [],
+    "音": [],
+    "食": [],
+    "首": [],
+    "香": [],
+    "骨": [],
+    "高": [],
+    "髟": [],
+    "鬥": [
+      "斗"
+    ],
+    "鬲": [],
+    "鬼": [],
+    "鹿": [],
+    "麻": [],
+    "黍": [],
+    "黑": [],
+    "鼎": [],
+    "鼓": [],
+    "鼠": [],
+    "鼻": [],
+    "龠": []
+  },
+  "simplifiedToKangxi": {
+    "一": [],
+    "丨": [],
+    "丿": [],
+    "丶": [],
+    "乛": [],
+    "十": [],
+    "厂": [],
+    "匚": [],
+    "卜": [],
+    "冂": [],
+    "八": [],
+    "人": [],
+    "勹": [],
+    "儿": [],
+    "匕": [],
+    "几": [],
+    "亠": [],
+    "冫": [],
+    "冖": [],
+    "凵": [],
+    "卩": [],
+    "刀": [],
+    "力": [],
+    "又": [],
+    "厶": [],
+    "廴": [],
+    "干": [],
+    "工": [],
+    "土": [],
+    "艹": [],
+    "寸": [],
+    "廾": [],
+    "大": [],
+    "尢": [],
+    "弋": [],
+    "小": [],
+    "口": [],
+    "囗": [],
+    "山": [],
+    "巾": [],
+    "彳": [],
+    "彡": [],
+    "夕": [],
+    "夂": [],
+    "丬": [],
+    "广": [],
+    "门": [],
+    "宀": [],
+    "辶": [],
+    "彐": [],
+    "尸": [],
+    "己": [],
+    "弓": [],
+    "子": [],
+    "屮": [],
+    "女": [],
+    "飞": [],
+    "马": [],
+    "么": [],
+    "巛": [],
+    "王": [],
+    "无": [],
+    "韦": [],
+    "木": [],
+    "支": [],
+    "犬": [],
+    "歹": [],
+    "车": [],
+    "牙": [],
+    "戈": [],
+    "比": [],
+    "瓦": [],
+    "止": [],
+    "攴": [],
+    "日": [],
+    "贝": [],
+    "水": [],
+    "见": [],
+    "牛": [],
+    "手": [],
+    "气": [],
+    "毛": [],
+    "长": [],
+    "片": [],
+    "斤": [],
+    "爪": [],
+    "父": [],
+    "月": [],
+    "氏": [],
+    "欠": [],
+    "风": [],
+    "殳": [],
+    "文": [],
+    "方": [],
+    "火": [],
+    "斗": [],
+    "户": [],
+    "心": [],
+    "毋": [],
+    "示": [],
+    "甘": [],
+    "石": [],
+    "龙": [],
+    "业": [],
+    "目": [],
+    "田": [],
+    "罒": [],
+    "皿": [],
+    "生": [],
+    "矢": [],
+    "禾": [],
+    "白": [],
+    "瓜": [],
+    "鸟": [],
+    "疒": [],
+    "立": [],
+    "穴": [],
+    "疋": [],
+    "皮": [],
+    "癶": [],
+    "矛": [],
+    "耒": [],
+    "老": [],
+    "耳": [],
+    "臣": [],
+    "覀": [],
+    "而": [],
+    "页": [],
+    "至": [],
+    "虍": [],
+    "虫": [],
+    "肉": [],
+    "缶": [],
+    "舌": [],
+    "竹": [],
+    "臼": [],
+    "自": [],
+    "血": [],
+    "舟": [],
+    "色": [],
+    "齐": [],
+    "衣": [],
+    "羊": [],
+    "米": [],
+    "聿": [],
+    "艮": [],
+    "羽": [],
+    "糸": [],
+    "麦": [],
+    "走": [],
+    "赤": [],
+    "豆": [],
+    "酉": [],
+    "辰": [],
+    "豕": [],
+    "卤": [],
+    "里": [],
+    "足": [],
+    "邑": [],
+    "身": [],
+    "釆": [],
+    "谷": [],
+    "豸": [],
+    "龟": [],
+    "角": [],
+    "言": [],
+    "辛": [],
+    "青": [],
+    "龺": [],
+    "雨": [],
+    "非": [],
+    "齿": [],
+    "黾": [],
+    "隹": [],
+    "阜": [],
+    "金": [],
+    "鱼": [],
+    "隶": [],
+    "革": [],
+    "面": [],
+    "韭": [],
+    "骨": [],
+    "香": [],
+    "鬼": [],
+    "食": [],
+    "音": [],
+    "首": [],
+    "髟": [],
+    "鬲": [],
+    "鬥": [],
+    "高": [],
+    "黄": [],
+    "麻": [],
+    "鹿": [],
+    "鼎": [],
+    "黑": [],
+    "黍": [],
+    "鼓": [],
+    "鼠": [],
+    "鼻": [],
+    "龠": []
+  }
+}
