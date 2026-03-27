@@ -27,3 +27,6 @@ export const FINAL_CHAR_MAP = path.resolve("scripts/data/data.json");
 
 export const OUT_JSON = path.resolve("scripts/data/data.json");
 export const OUT_JS = path.resolve("public/data.js");
+
+export const YAPU_DICTIONARY_JSON_PATH = path.resolve("lib/yapuDictionary/yapu_dictionary_v1.0.json");
+

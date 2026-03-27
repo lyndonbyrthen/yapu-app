@@ -38,4 +38,4 @@ export function unmount(selector: string | Element) {
   (el as any)._reactRoot?.unmount?.();
 }
 
-(globalThis as any).YayinApp = { mount, unmount };
+(globalThis as any).YapuApp = { mount, unmount };

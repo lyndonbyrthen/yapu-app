@@ -23,9 +23,9 @@ export default defineConfig({
   build: {
     lib: {
       entry: "src/entry.tsx",
-      name: "YayinApp",
+      name: "YapuApp",
       formats: ["iife"],
-      fileName: () => "yayin-app.iife.js",
+      fileName: () => "yapu-app.iife.js",
     },
     emptyOutDir: false,   // <— prevents wiping dist before build
     target: "es2017",

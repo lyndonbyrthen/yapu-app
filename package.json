@@ -1,5 +1,5 @@
 {
-  "name": "yayin-app",
+  "name": "yapu-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,7 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "build:data": "pnpm tsx scripts/build.ts",
+    "build:dictionary": "pnpm tsx scripts/build_dictionary.ts",
+    "inject:dictionary": "pnpm tsx scripts/inject_dictionary_data.ts",
     "clean:data": "rm -rf dist/data.js && rm -rf dist/data.json",
     "build:charset": "pnpm tsx scripts/extract-charset.ts",
     "build:fonts": "pnpm tsx scripts/build_fonts",
