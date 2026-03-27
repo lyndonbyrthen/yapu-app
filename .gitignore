@@ -14,8 +14,8 @@ dist-ssr
 *.local
 
 # Asset data
-scripts/data
-scripts/wiktionary
+scripts/data/**
+scripts/wiktionary/**
 
 # Editor directories and files
 .vscode/
