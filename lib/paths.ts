@@ -30,3 +30,5 @@ export const OUT_JS = path.resolve("public/data.js");
 
 export const YAPU_DICTIONARY_JSON_PATH = path.resolve("lib/yapuDictionary/yapu_dictionary_v1.0.json");
 
+export const YAPIN_TO_PINYIN_CSV = "scripts/data/yapinToPinyin.csv";
+export const PINYIN_TO_YAPIN_CSV = "scripts/data/pinyinToYapin.csv";
